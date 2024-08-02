@@ -86,8 +86,10 @@ https://github.com/Scanf-s/live_streaming_lists/assets/105439069/307ca6ff-fffe-4
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![AWS RDS](https://img.shields.io/badge/amazonrds-%23527FFF.svg?style=for-the-badge&logo=amazon-rds&logoColor=white)
 
-### CI/CD
+### Containerization
 ![Docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+### CI/CD
 ![GitHub Actions](https://img.shields.io/badge/githubactions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
 ### Cloud
