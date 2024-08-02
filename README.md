@@ -62,24 +62,6 @@ https://github.com/Scanf-s/live_streaming_lists/assets/105439069/307ca6ff-fffe-4
   - **페이지 라우터 설정**: React Router를 사용하여 페이지 간 내비게이션 설정.
   - **데이터 화면 배치**: 가공된 데이터를 화면에 배치하고 UI 컴포넌트 작성.
 
-
-## 개발 환경
-Docker
-
-- Django API
-  - WSL2 Ubuntu
-  - Docker python:3.12-alpine3.20
-  - Pycharm
-
-- Data scraper
-  - MacOS
-  - Docker python:3.12-slim
-  - VScode
- 
-- Frontend
-  - MacOS
-  - VScode
-
 ## 사용 기술
 
 ### Frontend
